@@ -1,33 +1,25 @@
 # Java-Matching-Game
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I wanted to learn more about Java and how I can use it with HTML and CSS. 
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
+I created a matching game. I made an array of cards representing the pairs. Then the cards are duplicated. Then They are shuffled using an algorithm. Each card has event listeners that listen for clicks. When a card is clicked it is "Flipped" and when the next card is flipped it checks to see if they are the same. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+I wanted to learn more about Java.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I used VSCode
+I used Java, HTML, and CSS.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W# Scholls](https://www.w3schools.com/java/java_intro.asp)
+- [CodeAcademy](https://www.codecademy.com/learn/java-introduction)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- More cards
+- Play again button
+- Timer
